@@ -1,6 +1,6 @@
 # react-weatherapp
 
-Click here for a live demo[https://aonye.github.io/react-weatherapp/](https://aonye.github.io/react-weatherapp/)
+Click here for a [live demo](https://aonye.github.io/react-weatherapp/)
 
 # Create React App
 
